@@ -8,4 +8,5 @@ export default component$(() => {
       <h2>pokemon: {useLocation().params.id} </h2>
     </>
   );
+  //Elementos
 });
